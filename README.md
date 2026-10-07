@@ -328,9 +328,7 @@
 
 
 
-**- \*\*GitHub\*\* — \[@adi270703](https://github.com/adi270703)**
 
-**- \*\*LinkedIn\*\* — \[@itsadityasharma](https://linkedin.com/in/itsadityasharma)**
 
 
 
@@ -342,7 +340,7 @@
 
 
 
-**Made with ❤️ by Aditya Sharma | ⭐ Star this project if it helped you!**
+**Made with ❤️ by Mamidipally Manish | ⭐ Star this project if it helped you!**
 
 
 
