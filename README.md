@@ -240,7 +240,7 @@
 
 **```bash**
 
-**git clone https://github.com/adi270703/hotel-booking-system.git**
+**git clone https://github.com/manishmanimidipally/Hotel-Booking-System.git**
 
 **cd hotel-booking-system**
 
